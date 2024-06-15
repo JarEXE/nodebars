@@ -367,4 +367,4 @@ echo -e "\e[32mScript is complete!\e[0m"
 echo -e "\e[33mYou can start your server with 'node app.js'\e[0"
 
 # Run the server
-# node server.js
+# node app.js
