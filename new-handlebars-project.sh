@@ -1,5 +1,5 @@
 #!/bin/bash
-# Function to check if Node.js is installed
+# Function to check if node installed
 check_node() {
   if ! command -v node &>/dev/null; then
     echo -e "\e[31mNode.js is not installed. Please install Node.js to proceed.\e[0m"
