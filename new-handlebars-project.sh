@@ -1,4 +1,15 @@
 #!/bin/bash
+# Function to check if Node.js is installed
+check_node() {
+  if ! command -v node &>/dev/null; then
+    echo -e "\e[31mNode.js is not installed. Please install Node.js to proceed.\e[0m"
+    echo -e "\e[31mVisit https://nodejs.org/en/download/ for instructions on how to install Node and the Node Package Manager.\e[0m"
+    exit 1
+  fi
+}
+
+# Run the Node.js check
+check_node
 
 # Get current date and time
 current_date_time=$(date +"%Y%m%d_%H%M%S")

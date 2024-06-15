@@ -9,6 +9,8 @@ The script will:
 - Create standard directories typically used for a new Node server.
 - Install some of the most common NPM packages.
 
+!Node and NPM must already already installed on your device!
+
 ### List of Packages Installed
 
 - express
