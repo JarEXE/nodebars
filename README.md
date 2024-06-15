@@ -1,6 +1,6 @@
 ## Description
 
-This script simplifies the process of initializing a new Node.js project for Handlebars enthusiasts. It includes about 10 useful Handlebars helper functions that are commonly used.
+This script simplifies the process of initializing a new Node.js project for fellow Handlebars enjoyers. It includes about 10 Handlebars helper functions that I have used quite frequently.
 
 ## Details
 
