@@ -1,4 +1,5 @@
 ## Download the Script
+<p>(Right click the button and choose "Save link as").</p>
 <a href="https://raw.githubusercontent.com/JarEXE/nodebars/master/new-handlebars-project.sh">
   <img src="https://imgur.com/xlORbnl.png" alt="download" width="275"/>
 </a>
