@@ -1,3 +1,8 @@
+## Download the Script
+<a href="https://raw.githubusercontent.com/JarEXE/nodebars/master/new-handlebars-project.sh">
+  <img src="https://imgur.com/xlORbnl.png" alt="download" width="275"/>
+</a>
+
 ## Description
 
 This script simplifies the process of initializing a new Node.js project for fellow Handlebars enjoyers. It includes about 10 Handlebars helper functions that I have used quite frequently.
