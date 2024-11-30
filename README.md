@@ -29,7 +29,7 @@ The script will:
 - express-flash
 - axios
 
-You will be prompted to choose whether to include Bootstrap and SweetAlert2 assets in your public assets directory. I went with Bootstrap as I never really had much success getting TailwindCSS working properly in a Node JS project.
+You will be prompted to choose whether to include Bootstrap and SweetAlert2 assets in your public assets directory.
 
 After the script completes, a new folder named `my-node-server_<date+time>` will be created in your project directory. You may want to rename it to something more meaningful.
 
